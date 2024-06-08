@@ -1,0 +1,36 @@
+#form_container {
+  margin-left: 35%;
+  /* margin-top: 5%; */
+  height: 450px;
+  width: 500px;
+  /* border: 2px solid black; */
+}
+label {
+  float: left;
+  margin-left: 22%;
+}
+input {
+  border-radius: 5px;
+  padding: 10px;
+  border: " 2px";
+  width: 60%;
+}
+form {
+  border: 2px solid blue;
+  padding: 20px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px 1px blue;
+}
+
+button {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+.input_div {
+  padding: 5px;
+}
